@@ -17,5 +17,10 @@ For steps to make the model check the [model](https://github.com/daspartho/is-it
 ![](demo-images/knife.png)
 ![](demo-images/towel.png)
 
+# Important Notes
+- Huggability is very subjective.
+- The model is not looking for particular faces or characters but general features of it.
+- It's just picking up on features that makes a thing huggable or vice-versa from the training data, like sharpness.
+
 # Contributing
 If you want to contribute code, just write a quick pull request and the developers will take a look at it. If you want to suggest an idea, just write an issue and the developers will check it out!
