@@ -49,3 +49,9 @@ a:hover {
 p {
     padding-bottom: 30px;
 }
+
+.footer {
+    position:fixed; 
+    bottom: 0;
+    height: 50px;
+}
