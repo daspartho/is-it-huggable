@@ -9,13 +9,17 @@ A pretrained image classification model (here resnet34) is fine tuned on images 
 For steps to make the model check the [model](https://github.com/daspartho/is-it-huggable/blob/main/model.ipynb) notebook in the repo.
 
 # Examples
-![](demo-images/bed.png)
-![](demo-images/chainsaw.png)
 ![](demo-images/plushie.png)
+![](demo-images/chainsaw.png)
+![](demo-images/shark.png)
 ![](demo-images/snowman.png)
-![](demo-images/fire.png)
+![](demo-images/dog.png)
+![](demo-images/tiger.png)
+![](demo-images/cactus.png)
+![](demo-images/bed.png)
+![](demo-images/trex.png)
 ![](demo-images/knife.png)
-![](demo-images/towel.png)
+![](demo-images/bunny.png)
 
 # Important Notes
 - Huggability is very subjective.
