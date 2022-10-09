@@ -1,5 +1,7 @@
 # Is it Huggable?
-An image classifier that tells if something's huggable or not?
+An image classifier that tells if something's huggable or not? 
+
+Made using [fastai](https://docs.fast.ai/).
 
 Play with it on the [website](https://daspartho.github.io/is-it-huggable/) or on [HuggingFace Space](https://huggingface.co/spaces/daspartho/is-it-huggable).
 
