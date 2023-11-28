@@ -3,7 +3,7 @@ An image classifier that tells if something's huggable or not?
 
 Made using [fastai](https://docs.fast.ai/).
 
-Play with it on the [website](https://daspartho.github.io/is-it-huggable/) or on [HuggingFace Space](https://huggingface.co/spaces/daspartho/is-it-huggable).
+Play with it on [HuggingFace Space](https://huggingface.co/spaces/daspartho/is-it-huggable).
 
 # How it works?
 A pretrained image classification model (here resnet34) is fine tuned on images of multiple examples of both categories, like for huggable, pillow photos and for not huggable, images of cactus.
